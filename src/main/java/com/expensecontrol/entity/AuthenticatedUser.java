@@ -1,5 +1,6 @@
 package com.expensecontrol.entity;
 
+import com.expensecontrol.enums.Profile;
 import jakarta.persistence.Entity;
 import jakarta.persistence.Id;
 
@@ -9,6 +10,6 @@ public class AuthenticatedUser {
     private Long id;
     private String name;
     private String email;
-    private String profile;
+    private Profile profile;
 
 }

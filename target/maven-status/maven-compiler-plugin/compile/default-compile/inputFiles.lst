@@ -1,4 +1,12 @@
+/home/roger/Documentos/java-vs-code/expansecontrol/src/main/java/com/expensecontrol/entity/Simulation.java
+/home/roger/Documentos/java-vs-code/expansecontrol/src/main/java/com/expensecontrol/service/FinancialMovementService.java
 /home/roger/Documentos/java-vs-code/expansecontrol/src/main/java/com/expensecontrol/enums/ShabbyType.java
+/home/roger/Documentos/java-vs-code/expansecontrol/src/main/java/com/expensecontrol/controller/FinancialMovementController.java
+/home/roger/Documentos/java-vs-code/expansecontrol/src/main/java/com/expensecontrol/entity/ViewExtract.java
+/home/roger/Documentos/java-vs-code/expansecontrol/src/main/java/com/expensecontrol/entity/FinancialMovement.java
+/home/roger/Documentos/java-vs-code/expansecontrol/src/main/java/com/expensecontrol/enums/Profile.java
 /home/roger/Documentos/java-vs-code/expansecontrol/src/main/java/com/expensecontrol/entity/AuthenticatedUser.java
+/home/roger/Documentos/java-vs-code/expansecontrol/src/main/java/com/expensecontrol/entity/dto/FinancialMovementDto.java
+/home/roger/Documentos/java-vs-code/expansecontrol/src/main/java/com/expensecontrol/config/Documentation.java
 /home/roger/Documentos/java-vs-code/expansecontrol/src/main/java/com/expensecontrol/ExpansecontrolApplication.java
-/home/roger/Documentos/java-vs-code/expansecontrol/src/main/java/com/expensecontrol/entity/Item.java
+/home/roger/Documentos/java-vs-code/expansecontrol/src/main/java/com/expensecontrol/repository/FinancialMovementRepository.java
